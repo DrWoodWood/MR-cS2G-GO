@@ -14,3 +14,7 @@ Custom codes are provided for:
 
 (5)Single-SNP Mendelian Randomization (SSMR)
 
+The workflow:
+![cS2G]()
+
+
